@@ -12,7 +12,7 @@
 <img src="https://github.com/OKITSCHRIS/OKITSCHRIS.GitHub.io/blob/master/images/Ripped%20effect.jpg"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Galaxy cat](http://example.com/)
 <img src="https://github.com/OKITSCHRIS/OKITSCHRIS.GitHub.io/blob/master/images/Galaxy%20Cat.jpg"/>
 
 ---
