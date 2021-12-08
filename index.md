@@ -8,12 +8,12 @@
 <img src="https://github.com/OKITSCHRIS/OKITSCHRIS.GitHub.io/blob/master/images/Double%20exposer%20effect%20.jpg"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Ripped effect](/pdf/sample_presentation.pdf)
+<img src="https://github.com/OKITSCHRIS/OKITSCHRIS.GitHub.io/blob/master/images/Ripped%20effect.jpg"/>
 
 ---
 [Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="https://github.com/OKITSCHRIS/OKITSCHRIS.GitHub.io/blob/master/images/Galaxy%20Cat.jpg"/>
 
 ---
 
