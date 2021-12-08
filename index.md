@@ -9,11 +9,11 @@
 
 ---
 [Ripped effect](/pdf/sample_presentation.pdf)
-<img src="https://github.com/OKITSCHRIS/OKITSCHRIS.GitHub.io/blob/master/images/Ripped%20effect.jpg"/>
+<img src="https://github.com/OKITSCHRIS/OKITSCHRIS.GitHub.io/blob/master/images/Ripped%20effect.jpg?raw=true"/>
 
 ---
 [Galaxy cat](http://example.com/)
-<img src="https://github.com/OKITSCHRIS/OKITSCHRIS.GitHub.io/blob/master/images/Galaxy%20Cat.jpg"/>
+<img src="https://github.com/OKITSCHRIS/OKITSCHRIS.GitHub.io/blob/master/images/Galaxy%20Cat.jpg?raw=true"/>
 
 ---
 
