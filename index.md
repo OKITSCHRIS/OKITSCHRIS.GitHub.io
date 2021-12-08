@@ -5,7 +5,7 @@
 ### My creative works 
 
 [Doulbe exposer effect](/sample_page)
-<img src="/images/Doulbe exposer effect. jpg"/>
+<img src="/images/Doulbe exposer effect. jpg?raw=true"/>
 
 ---
 [Ripped effect](/pdf/sample_presentation.pdf)
