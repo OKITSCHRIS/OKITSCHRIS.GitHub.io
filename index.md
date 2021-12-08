@@ -5,7 +5,7 @@
 ### My creative works 
 
 [Doulbe exposer effect](/sample_page)
-<img src="https://github.com/OKITSCHRIS/OKITSCHRIS.GitHub.io/blob/master/images/Double%20exposer%20effect%20.jpg"/>
+<img src="https://github.com/OKITSCHRIS/OKITSCHRIS.GitHub.io/blob/master/images/Double%20exposer%20effect%20.jpg?raw=true"/>
 
 ---
 [Ripped effect](/pdf/sample_presentation.pdf)
