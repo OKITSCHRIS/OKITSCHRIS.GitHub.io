@@ -15,8 +15,6 @@
 [Galaxy cat](http://example.com/)
 <img src="https://github.com/OKITSCHRIS/OKITSCHRIS.GitHub.io/blob/master/images/Galaxy%20Cat.jpg?raw=true"/>
 
-[Galaxy cat](http://example.com/)
-<img src="https://github.com/OKITSCHRIS/OKITSCHRIS.GitHub.io/blob/master/images/Galaxy%20Cat.jpg?raw=true"/>
 
 ---
 
