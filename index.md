@@ -15,7 +15,24 @@
 [Galaxy cat](http://example.com/)
 <img src="https://github.com/OKITSCHRIS/OKITSCHRIS.GitHub.io/blob/master/images/Galaxy%20Cat.jpg?raw=true"/>
 
+---
+[Galaxy effect](http://example.com/)
+<img src="https://github.com/OKITSCHRIS/OKITSCHRIS.GitHub.io/blob/master/images/download%20(4).png?raw=true"/>
 
+---
+[Earth day poster](http://example.com/)
+<img src="https://github.com/OKITSCHRIS/OKITSCHRIS.GitHub.io/blob/master/images/download%20(5).png?raw=true"/>
+
+---
+[Graffiti ripple](http://example.com/)
+<img src="https://github.com/OKITSCHRIS/OKITSCHRIS.GitHub.io/blob/master/images/Graffiti%20ripple.jpg?raw=true"/>
+
+---
+[Retro Collage](http://example.com/)
+<img src="https://github.com/OKITSCHRIS/OKITSCHRIS.GitHub.io/blob/master/images/0.jpg?raw=true"/>
+
+[3D pop effect](http://example.com/)
+<img src="https://github.com/OKITSCHRIS/OKITSCHRIS.GitHub.io/blob/master/images/white_shark.jpg?raw=true"/>
 ---
 
 ### Category Name 2
